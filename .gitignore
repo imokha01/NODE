@@ -1,0 +1,4 @@
+.vercel
+.history
+node_modules
+.env
